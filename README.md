@@ -10,8 +10,11 @@ Comment on a coupé le dataset
 
 ## Plan du projet
 I. Compréhension du dataset
+
 II. Vérification de la cohérence du dataset
+
 III. Affichage d'image en fonction de leur bande spectrale
+
 IV. ....
 
 
