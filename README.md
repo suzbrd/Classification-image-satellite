@@ -8,7 +8,7 @@ Lien vers le dataset : https://archive.ics.uci.edu/ml/datasets/Statlog+%28Landsa
 
 Comment on a coupé le dataset
 
-##Plan du projet
+## Plan du projet
 I. Compréhension du dataset
 II. Vérification de la cohérence du dataset
 III. Affichage d'image en fonction de leur bande spectrale
